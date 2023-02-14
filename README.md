@@ -1,2 +1,3 @@
-# git
+# Git
 learning git
+### NOtes
